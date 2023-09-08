@@ -41,6 +41,5 @@
     Console.Write("Press any key to close the Calculator console app...");
     Console.ReadKey();
     Console.Write("comit1");
-    Console.Write("comit2");
-    Console.ReadKey();
+
 
