@@ -42,3 +42,5 @@
     Console.ReadKey();
     Console.Write("comit1");
     Console.Write("comit2");
+    Console.ReadKey();
+
