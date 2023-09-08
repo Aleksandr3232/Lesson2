@@ -40,3 +40,4 @@
     // Wait for the user to respond before closing.
     Console.Write("Press any key to close the Calculator console app...");
     Console.ReadKey();
+    Console.Write("comit1");
